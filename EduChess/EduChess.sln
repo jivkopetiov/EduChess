@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EduChess", "EduChess\EduChess.csproj", "{B97D1B75-2667-4EC3-8418-171C89BF1D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Debug|iPhone.Build.0 = Debug|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Release|iPhone.Build.0 = Release|iPhone
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B97D1B75-2667-4EC3-8418-171C89BF1D19}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = EduChess\EduChess.csproj
+	EndGlobalSection
+EndGlobal

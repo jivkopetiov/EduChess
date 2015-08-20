@@ -1,0 +1,13 @@
+promotion of pawns
+an passant
+rokada
+king checks
+kings moving
+stalemate
+
+switch board
+play the game as slideshow
+load pgn
+
+bug - if the notation is too long, the bottom panel is wrongly positioned
+bug - if you go backward and forward, moves and notation are wrong
